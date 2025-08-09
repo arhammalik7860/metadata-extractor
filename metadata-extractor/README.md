@@ -1,16 +1,18 @@
-# 📂 Metadata Extractor Tool
+# 🛠️ Metadata Extractor
 
 **Created by:** Cyber Shield PK  
 **Purpose:** Extract metadata from images, PDFs, videos, and audio files.  
 **Educational Purpose Only** – Do not use for illegal activities.
 
+
 ---
 
-## ⚡ Installation (Termux)
+## 🚀 Installation
 
+### **On Termux (Android)**
 ```bash
-pkg update -y && pkg upgrade -y
-pkg install git -y
-git clone https://github.com/YourUsername/metadata-extractor.git
+pkg update && pkg upgrade
+pkg install git python -y
+git clone https://github.com/arhammalik7860/metadata-extractor
 cd metadata-extractor
-bash metadata.sh /path/to/file
+pip install -r requirements.txt
