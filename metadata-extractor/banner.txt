@@ -1,5 +1,0 @@
-===========================================
-   📂 Metadata Extractor Tool
-   🔹 Created by: Cyber Shield PK
-   🔹 For Educational Purpose Only
-===========================================
